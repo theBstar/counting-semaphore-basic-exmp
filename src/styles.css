@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 16px;
+}
